@@ -1,0 +1,9 @@
+{
+	"name": "df-ifactoryyy",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "caa45a09-e0e0-41ef-af89-e832248d725a",
+		"tenantId": "4dce3428-68f2-4030-9d18-d5e154229a84"
+	}
+}
